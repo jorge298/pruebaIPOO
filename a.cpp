@@ -3,5 +3,6 @@
 using namespace std;
 
 int main(){
-cout << "*Hello planet*"<<endl;
+cout << "dia 3"<<endl;
+cout << "sin cambios"<<endl;
 }
